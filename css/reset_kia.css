@@ -1,0 +1,7 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+ul { list-style: none; }
+a { text-decoration: none;}
+
+div ul li {background-size: cover; background-position: center center;}
+
+h1, h2, h3, h4, h5, h6, p, div, a { word-break: keep-all;}

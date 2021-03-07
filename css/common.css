@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "KiaSignature";
+    font-style: normal;
+    font-weight: 100;
+    src: url(../font/KiaSignatureLight.woff2) format("woff2"), url(../font/KiaSignatureLight.woff) format("woff"); font-display: swap; }
+
+@font-face {
+  font-family: "KiaSignature";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../font/KiaSignatureRegular.woff2) format("woff2"), url(../font/KiaSignatureRegular.woff) format("woff");
+  font-display: swap; }
+
+@font-face {
+  font-family: "KiaSignature";
+  font-style: normal;
+  font-weight: 700;
+  src: url(../font/KiaSignatureBold.woff2) format("woff2"), url(../font/KiaSignatureBold.woff) format("woff");
+  font-display: swap; }
+
+body { font-size: 14px; line-height: 1.4em; font-family: 'KiaSignature', sans-serif; -webkit-font-smoothing: antialiased; background-repeat: no-repeat; color:#414141;}
+
+
+p { display:block; font-size: 14px; color:#414141; line-height: 15px; margin-bottom: 3px; text-align: center;}
+h1 { font-size: 21px; color:rgb(70, 53, 39); font-weight: 400;}
+h2 { color: rgb(255,255,255);}
+h3 { color: rgb(255,255,255);}
+h4 { font-size: 12px; line-height: 15px; color: rgb(255,255,255); }
+h5 { font-size:12px; line-height: 15px; color: rgb(197, 187, 178); text-align:center; height:15px;}
+h6 { font-size: 11px; line-height: 13px; color: rgb(70, 53, 39); font-weight: 700; padding-bottom: 8px;}
+
+.c_o {color: rgb(249, 81, 18)}
+
+.ppw_1 { font-size: 18px; font-weight: 600; }
+.ppw_2 { font-size: 18px; font-weight: normal; }
+
+.mb_3 { margin-bottom: 3px; height: 38px;}
+
